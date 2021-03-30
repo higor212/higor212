@@ -35,7 +35,7 @@ I am a front-end developer in development! Technology enthusiast since childhood
 ## Other stuffs
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor212&show_icons=true&theme=ocean_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Credits 
 Badges - https://github.com/higor212/markdown-badges
