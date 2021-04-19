@@ -40,5 +40,7 @@ I am a front-end developer in development! Technology enthusiast since childhood
 # Credits 
 Badges - https://github.com/higor212/markdown-badges
 
+Image - <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
+
 Readme Stats - https://github.com/anuraghazra/github-readme-stats
 
