@@ -1,8 +1,10 @@
 ![Identidade Visual](https://github.com/higor212/higor212/blob/main/IDv.png?raw=true)
-![](https://raw.githubusercontent.com/higor212/higor212/a75173e74f94257d7f749954254ec38c916be2a4/Static%20assets-amico.svg)
+
 # About
+
 ### Hi, I'm Higor !👋
 I am a front-end developer in development! Technology enthusiast since childhood. I seek to study many contents. After all, the more knowledge acquired, the better it will be!
+<img align="right" src="https://raw.githubusercontent.com/higor212/higor212/a75173e74f94257d7f749954254ec38c916be2a4/Static%20assets-amico.svg" width="400" height="500" />
 
 ## Techonologies 💻
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
